@@ -1,0 +1,7 @@
+node_modules
+TrainingFiles/
+TrainingFiles/modelCate.pkl
+Flask_Backend/
+*.apk
+android/app/build/
+Frontend/android/app/src/main/res/mipmap-*/ic_launcher.png
